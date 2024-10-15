@@ -14,6 +14,8 @@ def scrape(url):
         curr_link = curr_link.lower()
         if link.get('href') in links:
             continue
+        if 'https' in link.get('href'):
+            continue
         # if the link contains at least one of the required words add to the list
         if 'intern' in curr_link or 'student' in curr_link or 'internship' in curr_link:
             links.append(link.get('href'))
