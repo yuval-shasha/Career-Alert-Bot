@@ -1,0 +1,4 @@
+google
+https://www.google.com/about/careers/applications/jobs/results?location=Israel&target_level=INTERN_AND_APPRENTICE
+apple
+https://jobs.apple.com/en-il/search?sort=relevance&key=intern+student+internship&location=israel-ISR
