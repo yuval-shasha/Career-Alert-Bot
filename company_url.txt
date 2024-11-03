@@ -2,3 +2,5 @@ google
 https://www.google.com/about/careers/applications/jobs/results?location=Israel&target_level=INTERN_AND_APPRENTICE
 apple
 https://jobs.apple.com/en-il/search?sort=relevance&key=intern+student+internship&location=israel-ISR
+amazon
+https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&industry_experience=less_than_1_year&latitude=&longitude=&loc_group_id=&loc_query=Israel&base_query=&city=&country=ISR&region=&county=&query_options=&
